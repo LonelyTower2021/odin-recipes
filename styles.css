@@ -1,3 +1,17 @@
+body {
+    background-color: rgb(255, 248, 215);
+}
+
+.food {
+    display: block;
+    text-align: center;
+    font-size: 300px;
+}
+
+h1, h3, .food, .description{
+    color: rgb(223, 113, 113);
+}
+
 h1, h3, .recipe, .description {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
