@@ -1,0 +1,39 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3, li, p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+ol li {
+    margin-bottom: 20px;
+}
+
+img {
+    display: block;
+    width: 500px;
+    height: auto;
+    text-align: center;
+    border: black solid 2px;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+}

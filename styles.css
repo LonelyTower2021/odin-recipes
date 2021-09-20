@@ -1,8 +1,18 @@
 h1, h3, .recipe, .description {
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.description {
+    margin-bottom: 100px;
+}
+
+.recipe-list {
+    padding-left: 0;
 }
 
 .recipe {
     font-family: "Courier New", sans-serif;
     list-style-type: none;
+    margin: 25px;
 }
