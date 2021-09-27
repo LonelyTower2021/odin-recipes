@@ -1,5 +1,16 @@
+html, body {
+    height: 100%;
+}
+
 body {
+    margin: 0 15%;
+    background-color: bisque;
+}
+
+.content {
+    height: 100%;
     background-color: rgb(255, 248, 215);
+    padding: auto;
 }
 
 .food {
